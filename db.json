@@ -1,0 +1,112 @@
+{
+  "TodoUp": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "level": "Junior",
+      "bosn": "Engineer"
+    },
+    {
+      "id": "2",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "level": "Senior",
+      "bosn": "Manager"
+    },
+    {
+      "id": "3",
+      "firstName": "Emily",
+      "lastName": "Jones",
+      "level": "Intermediate",
+      "bosn": "Developer"
+    },
+    {
+      "id": "4",
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "level": "Senior",
+      "bosn": "Analyst"
+    },
+    {
+      "id": "5",
+      "firstName": "Sarah",
+      "lastName": "Williams",
+      "level": "Junior",
+      "bosn": "Designer"
+    },
+    {
+      "id": "6",
+      "firstName": "David",
+      "lastName": "Wilson",
+      "level": "Intermediate",
+      "bosn": "Tester"
+    },
+    {
+      "id": "7",
+      "firstName": "Laura",
+      "lastName": "Miller",
+      "level": "Junior",
+      "bosn": "Developer"
+    },
+    {
+      "id": "8",
+      "firstName": "James",
+      "lastName": "Moore",
+      "level": "Senior",
+      "bosn": "Consultant"
+    },
+    {
+      "id": "9",
+      "firstName": "Olivia",
+      "lastName": "Taylor",
+      "level": "Intermediate",
+      "bosn": "Coordinator"
+    },
+    {
+      "id": "10",
+      "firstName": "Daniel",
+      "lastName": "Anderson",
+      "level": "Junior",
+      "bosn": "Support"
+    },
+    {
+      "id": "ade1",
+      "firstName": "Mirmansur",
+      "lastName": "Raxmatov",
+      "level": "Middle"
+    },
+    {
+      "id": "5093",
+      "firstName": "werwerewr",
+      "lastName": "Raxmatov",
+      "level": "Junior"
+    }
+  ],
+  "levels": [
+    {
+      "value": "1",
+      "label": "Not Identified"
+    },
+    {
+      "value": "2",
+      "label": "Closed"
+    },
+    {
+      "value": "3",
+      "label": "Communicated"
+    },
+    {
+      "value": "4",
+      "label": "Identified"
+    },
+    {
+      "value": "5",
+      "label": "Resolved"
+    },
+    {
+      "value": "6",
+      "label": "Cancelled"
+    }
+  ]
+}
